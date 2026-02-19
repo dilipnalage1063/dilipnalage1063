@@ -1,6 +1,6 @@
 # Hi, I'm Dilip Nalage !
 
-Full Stack Developer specializing in scalable backend systems and production-ready web applications 
+Full Stack Developer specializing in scalable backend systems and production-ready web applications |
 Java • Spring Boot • React • MySQL  
 PG-DAC Graduate focused on backend and scalable web applications.
 
