@@ -40,6 +40,8 @@ DevOps: Docker, Railway, Vercel
 ---
 
 ## 📫 Connect With Me
+Email : dilipnalage106@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/dilip-nalage-73889828a/
+
 Portfolio: https://dilip-nalage.vercel.app/
