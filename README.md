@@ -39,6 +39,8 @@ Database: MySQL, Firestore
 DevOps: Docker, Railway, Vercel  
 
 ---
+Currently seeking Full Stack / Backend Developer opportunities.
+
 
 ## 📫 Connect With Me
 Email : dilipnalage106@gmail.com
