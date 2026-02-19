@@ -10,23 +10,23 @@ PG-DAC Graduate focused on backend and scalable web applications.
 ### 🔹 Student Assessment & Performance Tracker
 Full-stack academic management system with automated reporting and notifications.  
 Tech: Spring Boot, React, .NET, MySQL  
-🔗 https://github.com/dilipnalage1063/Student-Assessment-And-Performance-Tracker
+🔗 GitHub: link:  https://github.com/dilipnalage1063/Student-Assessment-And-Performance-Tracker
 
-🚀 https://student-assessment-and-performance.vercel.app/
+🚀 Live Demo: https://student-assessment-and-performance.vercel.app/
 
 ### 🔹 AI SkillBridge
 AI-powered resume analyzer & study planner.  
 Tech: Spring Boot, Gemini AI, MySQL, Docker  
-🔗 https://github.com/dilipnalage1063/AI-SkillBridge
+🔗 GitHub: link: https://github.com/dilipnalage1063/AI-SkillBridge
 
-🚀 https://ai-skill-bridge-production.up.railway.app/
+🚀 Live Demo: https://ai-skill-bridge-production.up.railway.app/
 
 ### 🔹 MicroStore Generator
 Serverless store creation platform (live in <60s).  
 Tech: React, Firebase, Firestore  
-🔗 https://github.com/dilipnalage1063/MicroStore-Generator
+🔗 GitHub: link: https://github.com/dilipnalage1063/MicroStore-Generator
 
-🚀 https://micro-store-generator.vercel.app/
+🚀 Live Demo: https://micro-store-generator.vercel.app/
 
 ---
 
