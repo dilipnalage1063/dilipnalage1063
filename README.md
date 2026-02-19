@@ -18,12 +18,14 @@ Tech: Spring Boot, React, .NET, MySQL
 AI-powered resume analyzer & study planner.  
 Tech: Spring Boot, Gemini AI, MySQL, Docker  
 🔗 https://github.com/dilipnalage1063/AI-SkillBridge
+
 🚀 https://ai-skill-bridge-production.up.railway.app/
 
 ### 🔹 MicroStore Generator
 Serverless store creation platform (live in <60s).  
 Tech: React, Firebase, Firestore  
 🔗 https://github.com/dilipnalage1063/MicroStore-Generator
+
 🚀 https://micro-store-generator.vercel.app/
 
 ---
