@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Dilip Nalage 👋
 
-<!--
-**dilipnalage1063/dilipnalage1063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Java • Spring Boot • React • MySQL  
+PG-DAC Graduate focused on backend and scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔹 Student Assessment & Performance Tracker
+Full-stack academic management system with automated reporting and notifications.  
+Tech: Spring Boot, React, .NET, MySQL  
+🔗 https://github.com/dilipnalage1063/Student-Assessment-And-Performance-Tracker  
+
+### 🔹 AI SkillBridge
+AI-powered resume analyzer & study planner.  
+Tech: Spring Boot, Gemini AI, MySQL, Docker  
+🔗 https://github.com/dilipnalage1063/AI-SkillBridge  
+
+### 🔹 MicroStore Generator
+Serverless store creation platform (live in <60s).  
+Tech: React, Firebase, Firestore  
+🔗 https://github.com/dilipnalage1063/MicroStore-Generator  
+
+---
+
+## 🛠 Tech Stack
+
+Backend: Java, Spring Boot, Spring Security, REST APIs  
+Frontend: React.js, JavaScript  
+Database: MySQL, Firestore  
+DevOps: Docker, Railway, Vercel  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/dilip-nalage-73889828a/
+Portfolio: https://dilip-nalage.vercel.app/
