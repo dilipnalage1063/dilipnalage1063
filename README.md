@@ -1,4 +1,4 @@
-# Hi, I'm Dilip Nalage 👋
+# Hi, I'm Dilip Nalage !
 
 Full Stack Developer | Java • Spring Boot • React • MySQL  
 PG-DAC Graduate focused on backend and scalable web applications.
